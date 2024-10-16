@@ -1,0 +1,22 @@
+{
+  "name": "paola",
+  "version": "1.0.0",
+  "description": "Esta es una explicación de ejemplo",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "keywords": [
+    "app",
+    "example"
+  ],
+  "author": "Paola Ortiz",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.1"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.1"
+  }
+}
